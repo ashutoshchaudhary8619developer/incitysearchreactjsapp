@@ -44,4 +44,4 @@ So this app will work on your mobiles and this is in React Js the fastest js Lib
 
 Ashutosh
 
-Developer 3-4 years experience.
+Developer 4 years experience.
